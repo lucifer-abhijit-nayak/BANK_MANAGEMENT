@@ -7,4 +7,4 @@ Its a basic C program and with the help of file handling, it enabled to store th
 
 
 
-PASSWORD for the program: lucier
+PASSWORD for the program: lucifer
